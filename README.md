@@ -7,15 +7,22 @@ This tutorial builds upon an existing “Getting-Started” guide for rapid GUI 
 We’ll be working with the 4.3-inch capacitive touch ESP32 display module from Sunton, an affordable option featuring an 800x480 pixel IPS RGB display and a USB Type-C programming interface. This module also includes a micro-SD card slot for additional storage, along with 1.0mm-pitched and 1.25mm-pitched ports that expose power, serial port, and several GPIO pins. With minimal code adjustments, the demonstrations in this tutorial can also be adapted for use with other ESP32-based display modules, such as the CrowPanel displays from Elecrow and the gen4-ESP32 series from 4D Systems.
 Let's get started!
 
-#Links
-##The Youtube link for the original tutorial which contains the EEZ Studio project on which this tutorial is based
+Links
+The Youtube link for the original tutorial which contains the EEZ Studio project on which this tutorial is based
+
 https://youtu.be/VDcTMJfoDc8?si=q1BfAz07HiApw5Pn
 
-##The GitHub repository for original tutorial which contains the EEZ Studio project on which this tutorial is based
+
+The GitHub repository for original tutorial which contains the EEZ Studio project on which this tutorial is based
+
 https://github.com/ffodGit/esp32-8048s043-getting-started-00
 
-##Claude AI
+
+Claude AI
+
 https://claude.ai/new
 
-##The artifact which contains the final design proposed by Claude
+
+The artifact which contains the final design proposed by Claude
+
 https://claude.site/artifacts/90ada657-3555-4096-a162-ed905f21ab90
