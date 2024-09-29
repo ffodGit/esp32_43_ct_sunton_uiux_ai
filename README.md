@@ -8,21 +8,10 @@ We’ll be working with the 4.3-inch capacitive touch ESP32 display module from 
 Let's get started!
 
 Links
-The Youtube link for the original tutorial which contains the EEZ Studio project on which this tutorial is based
 
-https://youtu.be/VDcTMJfoDc8?si=q1BfAz07HiApw5Pn
-
-
-The GitHub repository for original tutorial which contains the EEZ Studio project on which this tutorial is based
-
-https://github.com/ffodGit/esp32-8048s043-getting-started-00
-
-
-Claude AI
-
-https://claude.ai/new
-
-
-The artifact which contains the final design proposed by Claude
-
-https://claude.site/artifacts/90ada657-3555-4096-a162-ed905f21ab90
+| Description                                                                                                 | URL                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| The Youtube link for the original tutorial which contains the EEZ Studio project on which this tutorial is based | [https://youtu.be/VDcTMJfoDc8?si=q1BfAz07HiApw5Pn](https://youtu.be/VDcTMJfoDc8?si=q1BfAz07HiApw5Pn)  |
+| The GitHub repository for original tutorial which contains the EEZ Studio project on which this tutorial is based | [https://github.com/ffodGit/esp32-8048s043-getting-started-00](https://github.com/ffodGit/esp32-8048s043-getting-started-00) |
+| Claude AI                                                                                                   | [https://claude.ai/new](https://claude.ai/new)                                                        |
+| The artifact which contains the final design proposed by Claude                                              | [https://claude.site/artifacts/90ada657-3555-4096-a162-ed905f21ab90](https://claude.site/artifacts/90ada657-3555-4096-a162-ed905f21ab90) |
